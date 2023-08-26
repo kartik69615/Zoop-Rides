@@ -47,5 +47,5 @@ Start the server
 
 
 ## Team 
-- Ritesh Sahu 
 - Kartik Kumar Singh
+- Ritesh Sahu 
